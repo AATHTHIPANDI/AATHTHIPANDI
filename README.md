@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm ஆத்திப் பாண்டி</h1>
+<h1 align="center">👋 Hey, I'm ஆத்திப்பாண்டி</h1>
 <h3 align="center">Machine Learning Enthusiast | Python Developer | Data Explorer</h3>
 
 ```console 
